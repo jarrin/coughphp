@@ -1,0 +1,6 @@
+{
+    "name": "jarrin/coughphp",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}

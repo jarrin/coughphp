@@ -1,4 +1,5 @@
-{
-    "name": "jarrin/coughphp",
-    "version": "1.3"
-}
+   {
+        "name": "awbush/coughphp",
+        "description": "awbush/coughphp",
+        "license": "FreeBSD"
+    }
